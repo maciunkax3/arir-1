@@ -1,0 +1,20 @@
+﻿PRAM Machine
+
+
+exe
+C#
+.cs
+C:\Users\macie\paramMachine\u-paweltroka-prammachine\PRAM Machine\obj\x86\Debug\
+PRAM_Machine
+none
+false
+DEBUG;TRACE
+
+5-190578753
+
+45342599307
+12-1381780322
+Gui\DisplayControl.xaml;Gui\MainWindow.xaml;Gui\MemoryCellView.xaml;Gui\ProcessorView.xaml;Gui\StatisticsDisplay.xaml;
+
+False
+
